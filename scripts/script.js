@@ -13,7 +13,7 @@ new Vue({
           name: "Antonio Bernabè",
           artist: "Piazza G. Manci",
           cover: "https://raw.githubusercontent.com/CawaAlreadyTaken/qr_povo/master/img/1.jpg",
-          source: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/mp3/1.mp3",
+          source: "https://raw.githubusercontent.com/CawaAlreadyTaken/qr_povo/master/mp3/1.jpg",
           url: "https://www.youtube.com/watch?v=z3wAjJXbYzA",
           favorited: false
         },
