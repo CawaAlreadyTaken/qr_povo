@@ -1,0 +1,2 @@
+msgDispatcher.out:
+	gcc -std=gnu90 -o msgDispatcher.out main.c -pthread
