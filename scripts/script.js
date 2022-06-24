@@ -18,32 +18,32 @@ new Vue({
           favorited: false
         },
         {
-          name: "Doss di Sant' Agata",
-          artist: "Antonio Bernab&#232;",
+          name: "Antonio Bernabè",
+          artist: "Doss di Sant' Agata",
           cover: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/2.jpg",
           source: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/mp3/2.mp3",
           url: "https://www.youtube.com/watch?v=Lin-a2lTelg",
           favorited: true
         },
         {
-          name: "Extreme Ways",
-          artist: "Antonio Bernab&#232;",
+          name: "Antonio Bernabè",
+          artist: "Villa Pompeati",
           cover: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/3.jpg",
           source: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/mp3/3.mp3",
           url: "https://www.youtube.com/watch?v=ICjyAe9S54c",
           favorited: false
         },
         {
-          name: "Butterflies",
-          artist: "Antonio Bernab&#232;",
+          name: "Antonio Bernabè",
+          artist: "Rio Salè",
           cover: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/4.jpg",
           source: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/mp3/4.mp3",
           url: "https://www.youtube.com/watch?v=kYgGwWYOd9Y",
           favorited: false
         },
         {
-          name: "The Final Victory",
-          artist: "Antonio Bernab&#232;",
+          name: "Antonio Bernabè",
+          artist: "Centro Margherita Grazioli",
           cover: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/5.jpg",
           source: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/mp3/5.mp3",
           url: "https://www.youtube.com/watch?v=0WlpALnQdN8",
